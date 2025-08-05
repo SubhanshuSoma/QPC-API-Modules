@@ -104,4 +104,4 @@ When adding new API modules:
 1. Create a new directory with the API name
 2. Include `__init__.py`, `client.py`, and `examples.py`
 3. Add authentication setup to `utils/auth.py`
-4. Update this README with new module information 
+4. Update this README with new module information
